@@ -1,6 +1,4 @@
-# GIT Preliminary Preparation Task – AWS for Beginners
-
-This README serves as a comprehensive report summarizing key concepts, configurations, and best practices from the AWS for Beginners lessons. It covers foundational AWS services, security features, IAM management, and tools for monitoring and automation.
+Виконав самостійно Шевченко Артем РПЗ 24-А
 
 ## 1. Key Concepts and Terms (from Lesson 1)
 
